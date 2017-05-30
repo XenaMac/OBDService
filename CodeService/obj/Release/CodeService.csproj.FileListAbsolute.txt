@@ -1,0 +1,7 @@
+C:\Users\elahti\Documents\Visual Studio 2015\Projects\CodeService\CodeService\bin\CodeService.dll.config
+C:\Users\elahti\Documents\Visual Studio 2015\Projects\CodeService\CodeService\bin\CodeService.dll
+C:\Users\elahti\Documents\Visual Studio 2015\Projects\CodeService\CodeService\bin\CodeService.pdb
+C:\Users\elahti\Documents\Visual Studio 2015\Projects\CodeService\CodeService\bin\Newtonsoft.Json.dll
+C:\Users\elahti\Documents\Visual Studio 2015\Projects\CodeService\CodeService\bin\Newtonsoft.Json.xml
+C:\Users\elahti\Documents\Visual Studio 2015\Projects\CodeService\CodeService\obj\Release\CodeService.dll
+C:\Users\elahti\Documents\Visual Studio 2015\Projects\CodeService\CodeService\obj\Release\CodeService.pdb
