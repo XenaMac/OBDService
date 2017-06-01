@@ -11,6 +11,5 @@ C:\GitHub\OBDService\CodeService\bin\CodeService.dll
 C:\GitHub\OBDService\CodeService\bin\CodeService.pdb
 C:\GitHub\OBDService\CodeService\bin\Newtonsoft.Json.dll
 C:\GitHub\OBDService\CodeService\bin\Newtonsoft.Json.xml
-C:\GitHub\OBDService\CodeService\obj\Debug\CodeService.csprojResolveAssemblyReference.cache
 C:\GitHub\OBDService\CodeService\obj\Debug\CodeService.dll
 C:\GitHub\OBDService\CodeService\obj\Debug\CodeService.pdb
