@@ -76,6 +76,7 @@ namespace CodeService
                 string err = ex.ToString();
             }
         }
+
         [OperationContract]
         [WebGet]
         public string getSettings(string MACAddress, string control)

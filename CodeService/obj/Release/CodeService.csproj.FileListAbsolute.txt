@@ -5,3 +5,11 @@ C:\Users\elahti\Documents\Visual Studio 2015\Projects\CodeService\CodeService\bi
 C:\Users\elahti\Documents\Visual Studio 2015\Projects\CodeService\CodeService\bin\Newtonsoft.Json.xml
 C:\Users\elahti\Documents\Visual Studio 2015\Projects\CodeService\CodeService\obj\Release\CodeService.dll
 C:\Users\elahti\Documents\Visual Studio 2015\Projects\CodeService\CodeService\obj\Release\CodeService.pdb
+C:\GitHub\OBDService\CodeService\bin\CodeService.dll.config
+C:\GitHub\OBDService\CodeService\bin\CodeService.dll
+C:\GitHub\OBDService\CodeService\bin\CodeService.pdb
+C:\GitHub\OBDService\CodeService\bin\Newtonsoft.Json.dll
+C:\GitHub\OBDService\CodeService\bin\Newtonsoft.Json.xml
+C:\GitHub\OBDService\CodeService\obj\Release\CodeService.csproj.CoreCompileInputs.cache
+C:\GitHub\OBDService\CodeService\obj\Release\CodeService.dll
+C:\GitHub\OBDService\CodeService\obj\Release\CodeService.pdb

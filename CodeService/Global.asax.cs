@@ -24,7 +24,7 @@ namespace CodeService
             sql.loadVehicleVehicleClasses();
             sql.loadAccelVals();
             sql.loadAccelVehicleClasses();
-            sql.loadVehicleClassCANs();
+            //sql.loadVehicleClassCANs();
         }
 
         protected void Session_Start(object sender, EventArgs e)

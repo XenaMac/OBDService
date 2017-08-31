@@ -13,7 +13,11 @@ namespace CodeService.Web
         {
             if (!Page.IsPostBack) {
                 foreach (vehicleService vs in globalData.vehicleServices) {
-                    ddlMACs.Items.Add(vs.vehicleID.ToString());
+                    string vn = globalData.vehicles.Where(v => v.vehicleID == vs.vehicleID).Select(n => n.vehicleName).FirstOrDefault();
+                    ListItem item = new ListItem();
+                    item.Value = vs.vehicleID.ToString();
+                    item.Text = vn;
+                    ddlMACs.Items.Add(item);
                 }
             }
         }
